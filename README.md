@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shafni Nasar
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Cs50
+- 📫 How to reach me shafninasar50@gmail.com
