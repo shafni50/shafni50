@@ -8,4 +8,3 @@
 <hr>
 
   
-![snake animation](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.svg) 
