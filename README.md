@@ -8,5 +8,5 @@
 <hr>
 
   
-Let the snake eat my contributions. 🐍
+<b>Let the snake eat my contributions. 🐍</b>
 ![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif)
