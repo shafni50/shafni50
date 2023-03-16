@@ -1,4 +1,4 @@
-<center><h3>I’m <u><i>Safni Nazar.</i></u></h3>
+<center><h3>I’m <u>Safni Nazar.</u></h3>
 <hr>
 
 <h5>- 👨‍ LoVe CoDinG! <3</h5>
