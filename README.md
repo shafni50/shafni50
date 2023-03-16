@@ -1,4 +1,4 @@
-<h3>I’m Shafni Nasar.</h3><hr>
+<h3>I’m Safni Nazar.</h3><hr>
 
 <h5>- 👨‍ LoVe CoDinG! <3</h5>
 <h5>- 🌱 I’m currently learning Software dev at Open UOM & Esoft Metro Campus, Sri Lanka</h5>
