@@ -1,4 +1,4 @@
-I’m Shafni Nasar.
+<h3>I’m Shafni Nasar.</h3>
 - 👨‍ LoVe CoDinG! <3
 - 🌱 I’m currently learning Software dev at Open UOM & Esoft Metro Campus, Sri Lanka
 - 📫 Reach me mailto:shafninasar50@gmail.com
