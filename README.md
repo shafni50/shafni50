@@ -1,4 +1,5 @@
-<center><h3>I’m <i>Safni Nazar.</h3></i></center><hr>
+<center><h3>I’m <i>Safni Nazar.</h3></i></center>
+<hr>
 
 <h5>- 👨‍ LoVe CoDinG! <3</h5>
   <h5>- 🌱 I’m currently learning Software dev at <a href='https://esoft.lk/'>Esoft Metro Campus</a> & <a href='https://open.uom.lk/'>Open UOM</a>, Sri Lanka</h5>
