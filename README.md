@@ -1,8 +1,13 @@
-<body>
+<!DOCTYPE html>
+<html>
+<head>
 <style> 
 body {font-family: monaco, 
 monospace:}
 </style>
+</head>
+
+<body>
 <center><h3>I’m <i><a href='https://safnisha.mystrikingly.com/'>Safni Nazar.</a></i></h3>
 <hr>
 
@@ -18,4 +23,4 @@ monospace:}
 ![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif)
 </center>
 </body>
-
+</html>
