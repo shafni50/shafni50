@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style> 
-body {font-family: monaco, 
-monospace;}
-</style>
 </head>
 
 <body>
-<center><h3>I’m <i><a href='https://safnisha.mystrikingly.com/'>Safni Nazar.</a></i></h3>
+<center><h3>I’m <i><a href='https://safnisha.mystrikingly.com/'>
+<span style="color: yellow">Safni Nazar</span></a></i>.</h3>
 <hr>
 
 <h5>- 👨‍ LoVe CoDinG! <3</h5>
