@@ -1,3 +1,9 @@
+<html>
+<body>
+<style> 
+body {font-family: monaco, 
+monospace:}
+</style>
 <center><h3>I’m <i><a href='https://safnisha.mystrikingly.com/'>Safni Nazar.</a></i></h3>
 <hr>
 
@@ -12,3 +18,5 @@
   
 ![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif)
 </center>
+</body>
+</html>
