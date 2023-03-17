@@ -1,4 +1,3 @@
-<html>
 <body>
 <style> 
 body {font-family: monaco, 
@@ -19,4 +18,4 @@ monospace:}
 ![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif)
 </center>
 </body>
-</html>
+
