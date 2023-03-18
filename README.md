@@ -19,7 +19,7 @@
 <br>
 <hr>
 <br> 
-<s>Let the snake eat my contributions :( </s>
+<i>Let the snake eat my contributions :( </i>
   
 <p align="left"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /></p>
 <!-- ![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif) -->
