@@ -1,5 +1,6 @@
 <h3>I’m <i><a href='https://safnisha.mystrikingly.com/'>Safni Nazar</a></i>.</h3>
 <hr>
+<br>
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h5>- 👨‍ LoVe CoDinG! <3</h5>
 <h5>- 🌱 I’m currently learning Software dev at <a href='https://esoft.lk/'>Esoft Metro Campus</a> & <a href='https://open.uom.lk/'>Open UOM</a>, Sri Lanka</h5>
