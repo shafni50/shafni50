@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F6DF7&width=435&lines=I'm+Safni+Nazar;Software+Engineer+student;Full+Stack+Developer+student" alt="Typing SVG" /></a>
 <br>
-<p align="center">
+<p align="left">
 <br>
 <a href="https://www.instagram.com/shafni50/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/safni-nazar-124301261/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
