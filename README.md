@@ -12,6 +12,6 @@
 <p align="left"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 <!-- ![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif) -->
 </br>
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
