@@ -11,11 +11,10 @@
 
   
 <b>Let the snake eat my contributions. :(</b>
-  
-![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif)
+<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
+<!-- ![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif) -->
 </center>
 </body>
 </html>
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
