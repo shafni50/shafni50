@@ -7,7 +7,6 @@
 <!-- <h3>I’m <i><a href='https://safnisha.mystrikingly.com/'>Safni Nazar</a></i>.</h3> -->
 <hr>
 
-<br>
 
 <img align="right" alt="Coding" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
