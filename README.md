@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning Software dev at <a href='https://esoft.lk/'>Esoft Metro Campus</a> & <a href='https://open.uom.lk/'>Open UOM</a>, Sri Lanka
 - 📫 Reach me through <a href="mailto:shafninasar50@gmail.com">Gmail!</a>
 - 🐍 My Python <a href='https://shafnisha.notion.site/Python-For-Beginners-07c600b75b6c49aea34f083c7b15e4e8'>Beginner</a> and <a href='https://shafnisha.notion.site/Python-advanced-61ec69ce3aa34d3597fd5410b15b20f3'>Advanced</a> notes in Notion
+- 🤖 Know about the latest technology <a href="https://bit.ly/3Kn9aE5">ChatGPT</a>
 <br>
 <hr>
 <br> 
