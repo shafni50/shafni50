@@ -1,11 +1,5 @@
-<p id='git_av' align="right"> <img src="https://github.githubassets.com/images/mona-loading-dark.gif" /></p>
-
-<style>
-#git_av {
-  height: 100px;
-  width: 100px;
-}  
-</style>
+<p style="width: 100px;
+          heigh: 100px;" align="right"> <img src="https://github.githubassets.com/images/mona-loading-dark.gif" /></p>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F6DF7&width=435&lines=I'm+Safni+Nazar;Software+Engineer+student;Full+Stack+Developer+student" alt="Typing SVG" /></a>
 <p align="left">
