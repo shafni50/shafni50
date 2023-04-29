@@ -22,6 +22,5 @@
 <!-- ![snake gif](https://github.com/shafni50/shafni50/blob/output/github-contribution-grid-snake.gif) -->
 </br>
 
-While True;
-print(https://github.githubassets.com/images/mona-loading-dark.gif)
+
 
