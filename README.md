@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F6DF7&width=435&lines=I'm+Safni+Nazar;Software+Engineer+student;Full+Stack+Developer+student" alt="Typing SVG" /></a>
+<a href="https://linktr.ee/shafni50"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F6DF7&width=435&lines=I'm+Safni+Nazar;Software+Engineer+student;Frontend+Developer;Full+Stack+Developer+student" alt="Typing SVG" /></a>
 <p align="left">
 <a href="https://www.instagram.com/shafni50/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/safni-nazar-124301261/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Software dev at <a href='https://esoft.lk/'>Esoft Metro Campus</a> & <a href='https://open.uom.lk/'>Open UOM</a>, Sri Lanka
 - 📫 Reach me through <a href="mailto:shafninasar50@gmail.com">Gmail!</a>
 - 🐍 My Python <a href='https://shafnisha.notion.site/Python-For-Beginners-07c600b75b6c49aea34f083c7b15e4e8'>Beginner</a> and <a href='https://shafnisha.notion.site/Python-advanced-61ec69ce3aa34d3597fd5410b15b20f3'>Advanced</a> notes in Notion
-- 🤖 Know about the latest technology <a href="https://bit.ly/3Kn9aE5">ChatGPT</a>
+- 🤖 Become a Frontend Developer <a href="https://shafni50.github.io/blog/become-a-frontend-developer">Blog↗</a>
 <br>
 <hr>
 <br> 
