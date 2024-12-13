@@ -1,7 +1,7 @@
 <a href="https://linktr.ee/shafni50"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F6DF7&width=435&lines=I'm+Safni+Nazar;Software+Engineer+student;Frontend+Developer;Full+Stack+Developer+student" alt="Typing SVG" /></a>
 <p align="left">
 <a href="https://www.instagram.com/shafni50/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/safni-nazar-124301261/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/safninazar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:shafninasar50@gmail.com?subject=Hello%20Safni!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 <hr>
