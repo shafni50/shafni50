@@ -3,9 +3,9 @@
 <br>
 
 - LoVe eNginEErinG! <3
-- Completed my HND in Software Engineering at <a href='https://esoft.lk/'>Esoft Uni</a> Sri Lanka
+- Completed my HND in Software Engineering at <a href='https://esu.lk/'>Esoft Uni</a> Sri Lanka
 - Currently enrolled in a training program in the path of Full Stack Web Development
-- Reach me through <a href="mailto:hello.safninazar@gmail.com">Outlook!</a>
+- Reach me through <a href="mailto:hello.safninazar@gmail.com">Mail!</a>
 - My Python <a href='https://shafnisha.notion.site/Python-For-Beginners-07c600b75b6c49aea34f083c7b15e4e8'>Beginner</a> and <a href='https://shafnisha.notion.site/Python-advanced-61ec69ce3aa34d3597fd5410b15b20f3'>Advanced</a> notes in Notion
 - Become a Frontend Developer <a href="https://shafni50.github.io/blog/become-a-frontend-developer">Blog↗</a>
 <br>
